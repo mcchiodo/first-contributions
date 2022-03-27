@@ -23,6 +23,7 @@
 - [Texas Tangler](https://github.com/Texas-Tangler)
 - [skionide](https://github.com/Skye967)
 - [Mushlih Almubarak](https://github.com/mushlih-almubarak)
+- [Cheedo](https://github.com/cheedo)
 - [ZigRazor](https://github.com/ZigRazor)
 - [Omkar Ashtekar](https://github.com/omkarun)
 - [Yaynshet Medhin](https://github.com/yayner2002)
